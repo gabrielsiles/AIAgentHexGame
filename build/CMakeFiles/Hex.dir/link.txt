@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++1z -Wall -O0 -Wno-unused-result -g CMakeFiles/Hex.dir/main.cpp.o -o Hex  -lz -lncurses -ltinfo 
